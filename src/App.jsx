@@ -5,7 +5,7 @@ import Footer from "./components/footer/Footer";
 function App() {
   return (
     <div className="hero">
-      <Header image="../public/images/illustration-article.svg" />
+      <Header image="/images/illustration-article.svg" />
       <Main
         label="Learning"
         date="  Published 21 Dec 2023"
